@@ -131,6 +131,11 @@ This project brings together the following list of public trackers:
 * https://github.com/DeSireFire/animeTrackerList
 
 Thanks for these projects!
+==========Special thanks===========
+
+This project is supported by VTEXS's "Open Source Project Free VPS Plan" for computing power.
+
+Thank you VTEXS for supporting the open source community!
 
 ****
 
